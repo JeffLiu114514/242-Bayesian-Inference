@@ -1,7 +1,7 @@
 Project 3 Bayesian Inference
-Team member:	Shaotong Sun(ssun25@u.rocehster.edu)
-		Junfei Liu(jliu137@u.rochester.edu)
-		Dingcheng Wang(dwang63@u.rochester.edu)
+Team member:	Shaotong Sun(****@u.rocehster.edu)
+			Junfei Liu(jliu137@u.rochester.edu)
+			Dingcheng Wang(****@u.rochester.edu)
 
 How to compile:
 cd to Project3
